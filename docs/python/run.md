@@ -1,4 +1,5 @@
----
+---/storage/emulated/0/Download/ViS/cws_3.mp4.mp4
+title.ext running python code in visual studio code
 ContentId:
 DateApproved: 07/09/2025
 MetaDescription: Running Python Code in Visual Studio Code
@@ -62,3 +63,4 @@ Smart Send will not work on unsupported versions of Python (for example, Python 
 
 - [Debugging](/docs/python/debugging.md) - Learn to debug Python both locally and remotely.
 - [Testing](/docs/python/testing.md) - Configure test environments and discover, run, and debug tests.
+

@@ -36,3 +36,4 @@ To set up Copilot in VS Code:
 - Discover AI-powered development in VS Code with our [Copilot Quickstart](/docs/copilot/getting-started.md)
 - Get an [overview of Copilot in VS Code](/docs/copilot/overview.md)
 - Get more info about the [Copilot Free plan details and conditions](https://docs.github.com/en/copilot/about-github-copilot/subscription-plans-for-github-copilot)
+
